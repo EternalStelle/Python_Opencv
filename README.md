@@ -1,1 +1,2 @@
 # Python_Opencv
+此仓库用于记录Python的Opencv学习
